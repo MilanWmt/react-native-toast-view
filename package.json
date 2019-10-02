@@ -1,0 +1,34 @@
+{
+  "name": "react-native-toast-view",
+  "version": "1.0.0",
+  "description": "React-Native Toast View component, Pure JavaScript Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutvikwebmobtech/react-native-toast-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "javascript",
+    "android",
+    "ios",
+    "toast",
+    "toast-view"
+  ],
+  "dependencies": {
+    "react-native-root-siblings": "^3.2.3",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.60.4"
+  },
+  "author": "WebMob Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rutvikwebmobtech/react-native-toast-view/issues"
+  },
+  "homepage": "https://github.com/rutvikwebmobtech/react-native-toast-view#readme"
+}
